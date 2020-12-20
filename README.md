@@ -2,7 +2,11 @@
 
 ## About Me
 
-I'm 22 Years! Indian! I'm a Computer Games Technology Student at Manchester Metropoilitan University, Manchester :man_student: ! 
+I'm 22 Years! 
+
+Originally from Bangalore, India but now stay in Manchester, UK. 
+
+I'm a Computer Games Technology Student at Manchester Metropoilitan University, Manchester :man_student: ! 
 
 ### Me as a Programmer
 When it comes to Programming I'm someone that aspires to be a good programmer than be good at programming in some language. My approch to programming has always been guided by this notion.
