@@ -26,4 +26,4 @@ I'm slowly working on uploading my work onto GitHub so hopefully you can have a 
 1. Space Raider On Pico 8 - [Here!](https://github.com/ScrappyMan25/Space_Raiders)
 2. Dungeons - Procedural Dungeon Generator [Here!](https://github.com/ScrappyMan25/Dungeons) 
 3. Shadows - A proof of Concept Game using Light [Here!](https://github.com/ScrappyMan25/Shadows)
-4. C++ Repo - This is a Slow WIP of learning C++ [Here!](https://github.com/ScrappyMan25/Cpp_repo)
+4. C++ Repo - This is a my WIP of learning C++ [Here!](https://github.com/ScrappyMan25/Cpp_repo)
